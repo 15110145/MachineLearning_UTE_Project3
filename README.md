@@ -6,7 +6,7 @@ Thành viên nhóm : 15110145 Nguyễn Xuân Tuấn
 
 HƯỚNG DẪN 
 
-Phiên bản python sử dụng: 3.6.5 (64 bit)
+Phiên bản python sử dụng: 3.6.5 (64 bit) cho window
 Các thư viện (Sử dụng lệnh cmd: "pip install [tên_thư_viện]" để cài đặt): keras tensorflow numpy sklearn nltk 
 Chú ý: ntlk cần thêm một thư viện con nên ta phải download bằng lệnh: 
 python 
