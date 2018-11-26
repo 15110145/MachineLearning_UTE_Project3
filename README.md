@@ -6,7 +6,7 @@ Thành viên nhóm : 15110145 Nguyễn Xuân Tuấn
 
 HƯỚNG DẪN 
 
-Phiên bản python sử dụng: 3.6.5
+Phiên bản python sử dụng: 3.6.5 (64 bit)
 
 
 # Cài đặt ban đầu
